@@ -1,0 +1,31 @@
+
+import javax.swing.*;
+
+public class Main {
+    public static void main(String[] args) {
+//        JFrame frame = new JFrame("Honeycomb Layout Example");
+//        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//        frame.setSize(600, 600);
+//
+//        // Create a container with HexLayout
+//        JPanel container = new JPanel();
+//        HexLayout layout = new HexLayout(7);
+//        container.setLayout(layout);
+//
+//        // Create and add the center button
+//        HexButoon centerButton = new HexButoon('C'); // Example label for center button
+//        container.add(centerButton);
+//
+//        // Create and add surrounding buttons
+//        char[] surroundingLabels = {'A', 'B', 'D', 'E', 'F', 'G'}; // Example labels for surrounding buttons
+//        for (char label : surroundingLabels) {
+//            HexButoon surroundingButton = new HexButoon(label);
+//            container.add(surroundingButton);
+//        }
+//
+//        // Add the container to the frame and make it visible
+//        frame.add(container);
+//        frame.setVisible(true);
+        CodeTest t = new CodeTest();
+    }
+}
